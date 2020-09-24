@@ -1,2 +1,2 @@
-# prof_ITSE2402
+# Introduction to JavaScript 
 Fall 2020 El Centro / Roosevelt JavaScript Class
